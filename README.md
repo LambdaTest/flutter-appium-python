@@ -17,10 +17,10 @@ With TestMu AI (Formerly LambdaTest), you can run Flutter Appium tests written i
 
 ### Prerequisites
 
-- [Python 3.x](https://www.python.org/downloads/)
-- [Appium Python client](https://pypi.org/project/Appium-Python-Client/) (`pip install Appium-Python-Client`)
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) installed
-- A TestMu AI (Formerly LambdaTest) account — [sign up here](https://www.testmuai.com/register/)
+- Python 3.x
+- Appium Python client (`pip install Appium-Python-Client`)
+- Flutter SDK installed
+- A TestMu AI (Formerly LambdaTest) account — sign up here
 
 ### Setup
 
